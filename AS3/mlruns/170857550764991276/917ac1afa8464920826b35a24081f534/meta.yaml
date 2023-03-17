@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jiashuoli/Documents/bdm/AS3/mlruns/170857550764991276/917ac1afa8464920826b35a24081f534/artifacts
+end_time: 1671633344485
+entry_point_name: ''
+experiment_id: '170857550764991276'
+lifecycle_stage: active
+run_id: 917ac1afa8464920826b35a24081f534
+run_name: <my prediction>
+run_uuid: 917ac1afa8464920826b35a24081f534
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671633344469
+status: 4
+tags: []
+user_id: jiashuoli
